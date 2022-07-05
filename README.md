@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">Open telegram bot chat, digit a name and it will download images and then it'll send them to you in a compressed zip file. Custom settings available.</h4>
+<h4 align="center">Download images from google via a telegram bot. I recommend to use the source code as a reference to learn a little of python, because the images that the bot sends you aren't entire.</h4>
 
 <p align="center">
   <a href="#Telegram">Telegram Bot</a> •
